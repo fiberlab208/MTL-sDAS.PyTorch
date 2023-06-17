@@ -1,0 +1,12 @@
+numpy~=1.21.0
+matplotlib~=3.3.4
+torch~=1.8.1
+ptflops~=0.6.7
+scikit-learn~=0.24.2
+torchvision~=0.9.1
+thop~=0.0.31
+torchstat~=0.0.7
+seaborn~=0.11.1
+pandas~=1.2.5
+scipy~=1.6.2
+tqdm~=4.61.2
