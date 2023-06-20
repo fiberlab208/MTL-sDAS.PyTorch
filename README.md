@@ -1,4 +1,4 @@
-# MTL-DAS.PyTorch
+# MTL-sDAS.PyTorch
 This repository contains the source code and the dataset in the paper: "Smart Fiber-Optic Distributed Acoustic Sensing (sDAS) with Multi-Task Learning for Time-Efficient Ground Listening Applications".
 
 
@@ -34,6 +34,8 @@ The preprocessed dataset is available in [Google Drive](https://drive.google.com
 
 ## Training
 Please execute `train.py` for model training and validation, using the command:
+
+Note: Some features have not been implemented yet, and the complete code will be uploaded soon.
 ```
 python train.py 
 --model                      default='MTL'                            The used model type: MTL, single_event, single_distance, multi_classifier
@@ -49,6 +51,8 @@ python train.py
 
 ## Test
 Please execute `test.py` for model test with the test set, using the command:
+
+Note: Some features have not been implemented yet, and the complete code will be uploaded soon.
 ```
 python train.py 
 --model                      default='MTL'                            The used model type: MTL, single_event, single_distance, multi_classifier
