@@ -35,7 +35,7 @@ The preprocessed dataset is available in [Google Drive](https://drive.google.com
 ## Training
 Please execute `train.py` for model training and validation, using the command:
 
-Note: Some features have not been implemented yet, and the complete code will be uploaded soon.
+Note: Some functions have not been uploaded yet, and the complete code will be available soon.
 ```
 python train.py 
 --model                      default='MTL'                            The used model type: MTL, single_event, single_distance, multi_classifier
@@ -52,7 +52,7 @@ python train.py
 ## Test
 Please execute `test.py` for model test with the test set, using the command:
 
-Note: Some features have not been implemented yet, and the complete code will be uploaded soon.
+Note: Some functions have not been uploaded yet, and the complete code will be available soon.
 ```
 python train.py 
 --model                      default='MTL'                            The used model type: MTL, single_event, single_distance, multi_classifier
